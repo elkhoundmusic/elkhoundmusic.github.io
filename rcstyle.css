@@ -40,6 +40,11 @@ h1 {
     font-family: 'Open Sans', sans-serif;
 }
 
+.songkick-widget {
+    background-color: #303030;
+    opacity: 0.7;
+}
+
 body:before {
     content: "";
     display: block;
