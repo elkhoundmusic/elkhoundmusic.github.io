@@ -36,6 +36,8 @@ h1 {
     margin-right: auto;
     text-align: left;
     margin-bottom: 200px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
 }
 
 body:before {
