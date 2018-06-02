@@ -82,6 +82,10 @@ h1 {
     background-color: rgba(45, 45, 45, 0.7);
 }
 
+.video {
+    width: 560px;
+}
+
 body:before {
     content: "";
     display: block;
@@ -131,5 +135,9 @@ body:before {
     
     .logo {
     width: 100%;
+    }
+
+    .video {
+        width: 100%;
     }
 }
